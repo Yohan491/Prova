@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MeloY\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MeloY\\.nuget\\packages"
+    ]
+  }
+}
